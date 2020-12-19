@@ -25,87 +25,113 @@
 
     <section class="section__icons">
       <div class="service__component">
-        <figure class="service__component__icon" title="made by freepik">
-          <img
-            src="~/assets/icons/services/mercantil-freepik.svg"
-            alt="imagen"
-          />
-        </figure>
-        <NuxtLink to="/services/mercantil">litigio mercantil</NuxtLink>
+        <NuxtLink to="/services/mercantil">
+          <figure class="service__component__icon" title="made by freepik">
+            <img
+              src="~/assets/icons/services/mercantil-freepik.svg"
+              alt="imagen"
+            />
+          </figure>
+          <NuxtLink to="/services/mercantil">litigio mercantil</NuxtLink>
+        </NuxtLink>
       </div>
       <div class="service__component">
-        <figure class="service__component__icon" title="made by freepik">
-          <img src="~/assets/icons/services/penal-freepik.svg" alt="imagen" />
-        </figure>
-        <NuxtLink to="/services/penal">litigio penal</NuxtLink>
+        <NuxtLink to="/services/penal">
+          <figure class="service__component__icon" title="made by freepik">
+            <img src="~/assets/icons/services/penal-freepik.svg" alt="imagen" />
+          </figure>
+          <NuxtLink to="/services/penal">litigio penal</NuxtLink>
+        </NuxtLink>
       </div>
       <div class="service__component">
-        <figure class="service__component__icon" title="made by freepik">
-          <img
-            src="~/assets/icons/services/intelectual-eucalyp.svg"
-            alt="imagen"
-          />
-        </figure>
-        <NuxtLink to="/services/intelectual">propiedad intelectual</NuxtLink>
+        <NuxtLink to="/services/intelectual">
+          <figure class="service__component__icon" title="made by freepik">
+            <img
+              src="~/assets/icons/services/intelectual-eucalyp.svg"
+              alt="imagen"
+            />
+          </figure>
+          <NuxtLink to="/services/intelectual">propiedad intelectual</NuxtLink>
+        </NuxtLink>
       </div>
       <div class="service__component">
-        <figure class="service__component__icon" title="made by freepik">
-          <img src="~/assets/icons/services/civil-freepik.svg" alt="imagen" />
-        </figure>
-        <NuxtLink to="/services/civil">litigio civil</NuxtLink>
+        <NuxtLink to="/services/civil">
+          <figure class="service__component__icon" title="made by freepik">
+            <img src="~/assets/icons/services/civil-freepik.svg" alt="imagen" />
+          </figure>
+          <NuxtLink to="/services/civil">litigio civil</NuxtLink>
+        </NuxtLink>
       </div>
       <div class="service__component">
-        <figure class="service__component__icon" title="made by eucalyp">
-          <img
-            src="~/assets/icons/services/administrativo-eucalyp.svg"
-            alt="imagen"
-          />
-        </figure>
-        <NuxtLink to="/services/administrativo"
-          >litigio administrativo</NuxtLink
-        >
+        <NuxtLink to="/services/administrativo">
+          <figure class="service__component__icon" title="made by eucalyp">
+            <img
+              src="~/assets/icons/services/administrativo-eucalyp.svg"
+              alt="imagen"
+            />
+          </figure>
+          <NuxtLink to="/services/administrativo"
+            >litigio administrativo
+          </NuxtLink>
+        </NuxtLink>
       </div>
       <div class="service__component">
-        <figure class="service__component__icon" title="made by freepik">
-          <img
-            src="~/assets/icons/services/familiar-freepik.svg"
-            alt="imagen"
-          />
-        </figure>
-        <NuxtLink to="/services/familiar">litigio familiar</NuxtLink>
+        <NuxtLink to="/services/familiar">
+          <figure class="service__component__icon" title="made by freepik">
+            <img
+              src="~/assets/icons/services/familiar-freepik.svg"
+              alt="imagen"
+            />
+          </figure>
+          <NuxtLink to="/services/familiar">litigio familiar</NuxtLink>
+        </NuxtLink>
       </div>
       <div class="service__component">
-        <figure class="service__component__icon" title="made by freepik">
-          <img src="~/assets/icons/services/laboral-freepik.svg" alt="imagen" />
-        </figure>
-        <NuxtLink to="/services/laboral">litigio laboral</NuxtLink>
+        <NuxtLink to="/services/laboral">
+          <figure class="service__component__icon" title="made by freepik">
+            <img
+              src="~/assets/icons/services/laboral-freepik.svg"
+              alt="imagen"
+            />
+          </figure>
+          <NuxtLink to="/services/laboral">litigio laboral</NuxtLink>
+        </NuxtLink>
       </div>
       <div class="service__component">
-        <figure class="service__component__icon" title="made by freepik">
-          <img src="~/assets/icons/services/fiscal-freepik.svg" alt="imagen" />
-        </figure>
-        <NuxtLink to="/services/fiscal">litigio fiscal</NuxtLink>
+        <NuxtLink to="/services/fiscal">
+          <figure class="service__component__icon" title="made by freepik">
+            <img
+              src="~/assets/icons/services/fiscal-freepik.svg"
+              alt="imagen"
+            />
+          </figure>
+          <NuxtLink to="/services/fiscal">litigio fiscal</NuxtLink>
+        </NuxtLink>
       </div>
       <div class="service__component">
-        <figure class="service__component__icon" title="made by smartline">
-          <img
-            src="~/assets/icons/services/bancario-smartline.svg"
-            alt="imagen"
-          />
-        </figure>
-        <NuxtLink to="/services/bancario">litigio bancario</NuxtLink>
+        <NuxtLink to="/services/bancario">
+          <figure class="service__component__icon" title="made by smartline">
+            <img
+              src="~/assets/icons/services/bancario-smartline.svg"
+              alt="imagen"
+            />
+          </figure>
+          <NuxtLink to="/services/bancario">litigio bancario</NuxtLink>
+        </NuxtLink>
       </div>
       <div class="service__component">
-        <figure
-          class="service__component__icon"
-          title="made by photo3idea_studio"
-        >
-          <img
-            src="~/assets/icons/services/inmobiliario-photo3idea_studio.svg"
-            alt="imagen"
-          />
-        </figure>
-        <NuxtLink to="/services/inmobiliario">litigio inmobiliario</NuxtLink>
+        <NuxtLink to="/services/inmobiliario">
+          <figure
+            class="service__component__icon"
+            title="made by photo3idea_studio"
+          >
+            <img
+              src="~/assets/icons/services/inmobiliario-photo3idea_studio.svg"
+              alt="imagen"
+            />
+          </figure>
+          <NuxtLink to="/services/inmobiliario">litigio inmobiliario</NuxtLink>
+        </NuxtLink>
       </div>
     </section>
   </main>
@@ -180,5 +206,9 @@ main {
   font-size: 1.3rem;
   font-style: italic;
   color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 </style>

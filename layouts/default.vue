@@ -18,7 +18,7 @@ export default {
 :root {
   --main-color: #a5a07b;
   --dark-color: #322715;
-  --heading-size: 2.6rem;
+  --heading-size: 3rem;
   --heading-weight: bold;
   --light-gray: rgba(196, 196, 196, 0.19);
 }
