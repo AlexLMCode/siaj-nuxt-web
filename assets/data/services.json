@@ -1,0 +1,120 @@
+{
+  "services": {
+    "administrativo": {
+      "titulo": "litigio administrativo",
+      "descripcion": "Asesoría respecto a actos jurídicos en los que intervenga la Administración Pública con los particulares, orientando a los clientes en cualquier controversia que pudiera surgir entre las partes.",
+      "puntos": [
+        "-Asesoría y defensa en visitas de verificación.",
+        "-Asesoría y defensa en requerimientos de cualquier índole.",
+        "-Asesoría integral en cualquier procedimiento administrativo",
+        "-Tramitación de juicios de nulidad.",
+        "-Interposición de recursos administrativos en términos de las leyes correspondientes.",
+        "-Asesoría, gestión y defensa para obtención de concesiones, permisos o autorizaciones.",
+        "-Análisis integral en tema de contratos administrativos."
+      ]
+    },
+    "bancario": {
+      "titulo": "litigio bancario ",
+      "descripcion": "Brindamos asesoría jurídica integral en asuntos jurídicos donde intervenga cualquier institución bancaria y financiera.",
+      "puntos": [
+        "-Estructuración, negociación y documentación de préstamos, créditos y otras operaciones financieras como capital de riesgo, arrendamientos puros y financieros.",
+        "-Constitución de garantías reales y personales.",
+        "-Créditos y financiamientos locales e internacionales.",
+        "-Reestructuraciones de créditos.",
+        "-Asesoría para el registro y autorización de entidades financieras.",
+        "-Inscripción en el Registro Nacional de Valores."
+      ]
+    },
+    "civil": {
+      "titulo": "litigio civil",
+      "descripcion": "Ofrecemos consultoría en todo tipo de trámites y controversias dentro de la rama del derecho civil cerciorándonos de obtener los resultados más favorables para nuestros clientes.",
+      "puntos": [
+        "-Asesoría, redacción y negociación en materia de contratos civiles, como arrendamientos, compraventas, donaciones, prestación de servicios, etc.",
+        "-Gestión, asesoría y tramitación de juicios de naturaleza civil.",
+        "-Tramitación y corrección de cambios de nombre ante el registro civil.",
+        "-Cesiones de derechos.",
+        "-Interposición de recursos en juicios civiles."
+      ]
+    },
+    "familiar": {
+      "titulo": "litigio familiar",
+      "descripcion": "Otorgamos la asesoría necesaria para resolver los conflictos que pudieran surgir entre los integrantes de una familia.",
+      "puntos": [
+        "-Asesoría en temas de pensiones alimenticias.",
+        "-Tramitación de juicios de divorcio.",
+        "-Asesoría y tramitación de juicios para resolver controversias de patria potestad así como de guarda y custodia."
+      ]
+    },
+    "inmobiliario": {
+      "titulo": "litigio inmobiliario",
+      "descripcion": "Consultoría en materia inmobiliaria desde el aspecto preventivo buscando la protección del cliente en toda la tramitación de las operaciones.",
+      "puntos": [
+        "-Asesoría en materia de contratos inmobiliarios.",
+        "-Representación de los clientes en juicios inmobiliarios.",
+        "-Asesoría integral en compraventa de inmuebles.",
+        "-Tramitación de remates judiciales.",
+        "-Estructuración de inversión inmobiliaria."
+      ]
+    },
+    "intelectual": {
+      "titulo": "propiedad intelectual",
+      "descripcion": "Otorgamos asesoría en aspecto integral para la protección jurídica nacional e internacional de las marcas de los negocios en el ámbito de la propiedad industrial, como el trabajo creativo en materia de derechos de autor.",
+      "puntos": [
+        "-Asesoría en creación, registro y protección de marcas.",
+        "-Secretos industriales.",
+        "-Asesoría integral en derechos de autor.",
+        "-Patentes.",
+        "-Litigio en materia de marcas, derechos de autor, patentes, secretos industriales.",
+        "-Negociación de contratos de transferencia de tecnología.",
+        "-Asesoría, estructuración y redacción de contratos de franquicia."
+      ]
+    },
+    "laboral": {
+      "titulo": "litigio laboral",
+      "descripcion": "Ofrecemos asesoría integral en todo tipo de controversias laborales para la protección jurídica integral de los patrones.",
+      "puntos": [
+        "-Asesoría y tramitación de juicios laborales.",
+        "-Elaboración de contratos laborales.",
+        "-Estructuración de planeación de defensa laboral dentro del centro de trabajo.",
+        "-Negociación de contratos colectivos.",
+        "-Elaboración y asesoría en comisiones de capacitación, seguridad e higiene y todas las establecidas en materia laboral.",
+        "-Elaboración de manuales de capacitación de empleados.",
+        "-Redacción de reglamentos interiores de trabajo.",
+        "-Asesoría y tramitación de controversias en materia de seguridad social.",
+        "-Asesoría y gestión de despidos.",
+        "-Atención de conciliaciones laborales.",
+        "-Servicios de recursos humanos y contratación de personal."
+      ]
+    },
+    "mercantil": {
+      "titulo": "litigio mercantil",
+      "descripcion": "sdiñosobfiwb",
+      "puntos": [
+        "-Tramitación de juicios en materia mercantil.",
+        "-Cobranza judicial.",
+        "-Elaboración de contratos mercantiles.",
+        "-Asesoría en temas de sociedades mercantiles."
+      ]
+    },
+    "penal": {
+      "titulo": "litigio penal",
+      "descripcion": "Contamos con especialistas en materia penal para otorgar respuestas eficientes a los conflictos legales de nuestros clientes.",
+      "puntos": [
+        "-Asesoría en la interposición de denuncias y querellas.",
+        "-Asesoría y  consultoría en toda la tramitación del juicio penal en el sistema tradicional.",
+        "-Asesoría y tramitación dentro del juicio penal del nuevo sistema acusatorio.",
+        "-Mecanismos alternativos de solución de controversias buscando la justicia restaurativa."
+      ]
+    },
+    "fiscal": {
+      "titulo": "litigio fiscal",
+      "descripcion": "Nos especializamos en la protección y asesoría integral en materia fiscal buscando salvaguardar el interés de nuestros clientes.",
+      "puntos": [
+        "-Planeación fiscal.",
+        "-Defensa fiscal integral.",
+        "-Tramitación de juicios de nulidad en materia fiscal.",
+        "-Interposición de recursos dentro de los juicios en materia fiscal."
+      ]
+    }
+  }
+}
