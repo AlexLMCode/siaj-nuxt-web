@@ -32,7 +32,7 @@
               alt="imagen"
             />
           </figure>
-          <NuxtLink to="/services/mercantil">litigio mercantil</NuxtLink>
+          litigio mercantil
         </NuxtLink>
       </div>
       <div class="service__component">
@@ -40,7 +40,7 @@
           <figure class="service__component__icon" title="made by freepik">
             <img src="~/assets/icons/services/penal-freepik.svg" alt="imagen" />
           </figure>
-          <NuxtLink to="/services/penal">litigio penal</NuxtLink>
+          litigio penal
         </NuxtLink>
       </div>
       <div class="service__component">
@@ -51,7 +51,7 @@
               alt="imagen"
             />
           </figure>
-          <NuxtLink to="/services/intelectual">propiedad intelectual</NuxtLink>
+          propiedad intelectual
         </NuxtLink>
       </div>
       <div class="service__component">
@@ -59,7 +59,7 @@
           <figure class="service__component__icon" title="made by freepik">
             <img src="~/assets/icons/services/civil-freepik.svg" alt="imagen" />
           </figure>
-          <NuxtLink to="/services/civil">litigio civil</NuxtLink>
+          litigio civi
         </NuxtLink>
       </div>
       <div class="service__component">
@@ -70,9 +70,7 @@
               alt="imagen"
             />
           </figure>
-          <NuxtLink to="/services/administrativo"
-            >litigio administrativo
-          </NuxtLink>
+          litigio administrativo
         </NuxtLink>
       </div>
       <div class="service__component">
@@ -83,7 +81,7 @@
               alt="imagen"
             />
           </figure>
-          <NuxtLink to="/services/familiar">litigio familiar</NuxtLink>
+          litigio familiar
         </NuxtLink>
       </div>
       <div class="service__component">
@@ -94,7 +92,7 @@
               alt="imagen"
             />
           </figure>
-          <NuxtLink to="/services/laboral">litigio laboral</NuxtLink>
+          litigio laboral
         </NuxtLink>
       </div>
       <div class="service__component">
@@ -105,7 +103,7 @@
               alt="imagen"
             />
           </figure>
-          <NuxtLink to="/services/fiscal">litigio fiscal</NuxtLink>
+          litigio fiscal
         </NuxtLink>
       </div>
       <div class="service__component">
@@ -116,7 +114,7 @@
               alt="imagen"
             />
           </figure>
-          <NuxtLink to="/services/bancario">litigio bancario</NuxtLink>
+          litigio bancario
         </NuxtLink>
       </div>
       <div class="service__component">
@@ -130,7 +128,7 @@
               alt="imagen"
             />
           </figure>
-          <NuxtLink to="/services/inmobiliario">litigio inmobiliario</NuxtLink>
+          litigio inmobiliario
         </NuxtLink>
       </div>
     </section>
