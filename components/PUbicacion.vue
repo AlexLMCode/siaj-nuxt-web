@@ -3,12 +3,15 @@
     <p class="section__title">oficinas</p>
     <div class="section__separator"></div>
     <p class="section__title">boca del río</p>
-    <p class="section__description">
+    <p class="section__title">Xalapa</p>
+    <p class="section__title">Ciudad de México</p>
+
+    <!-- <p class="section__description">
       VERACRUZ: Calle Bugambilia número 7 local 2. Fraccionamiento Jardines de
       Virginia, Boca del Río, Veracruz.
       <br />
       T.52(229) 1 7219 19090
-    </p>
+    </p> -->
   </section>
 </template>
 

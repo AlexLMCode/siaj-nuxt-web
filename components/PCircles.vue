@@ -43,7 +43,7 @@
           </div>
         </div>
         <p class="text">desfavorables</p>
-        <small>se reducirán a 0</small>
+        <small>se reducirán a 1%</small>
       </div>
     </div>
   </section>

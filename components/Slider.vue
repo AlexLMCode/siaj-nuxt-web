@@ -21,9 +21,9 @@
             <div class="section__separator"></div>
             <p class="section__description">
               "Se pusieron en contacto conmigo a la brevedad, siempre atentos de
-              mi caso, exelente!"
+              mi caso, excelente!"
               <br />
-              <small>Francisco Villa. Xalapa, Ver</small>
+              <small>Roberto Villa. Xalapa, Ver</small>
             </p>
           </section>
           <img src="~/assets/photos/quotes-bg-sebastian-pichler.jpg" alt="" />
@@ -33,7 +33,7 @@
             <p class="section__title">nos recomiendan</p>
             <div class="section__separator"></div>
             <p class="section__description">
-              "Eficientes y eficazes, todo lo que podia esperar."
+              "Eficientes y eficaces, todo lo que podia esperar."
               <br />
               <small>Rodrigo Saldivar. Ver, Boca del Río</small>
             </p>

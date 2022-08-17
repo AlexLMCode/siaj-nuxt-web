@@ -10,28 +10,25 @@
               atenderemos.</small
             >
           </div>
-          <div class="contact--info contact__info--tel">
+          <!-- <div class="contact--info contact__info--tel">
             <p>Teléfono:</p>
             <div>
               <img src="~/assets/icons/phone-icon-pixel-perfect.svg" alt="" />
               <p>(52 55) 5488 61 00</p>
             </div>
-          </div>
+          </div> -->
           <div class="contact--info contact__info--email">
             <p>Email:</p>
             <div>
               <img src="~/assets/icons/correo1.svg" alt="" />
-              <p>siaj@outlook.com</p>
+              <p>asesoria@siaj.com.mx</p>
             </div>
           </div>
           <div class="contact--info contact__info--location">
             <p>Dirección:</p>
             <div>
               <img src="~/assets/icons/location-icon-freepik.svg" alt="" />
-              <p>
-                Calle Bugambilia número 7 local 2. Fraccionamiento Jardines de
-                Virginia, Boca del Río, Veracruz.
-              </p>
+              <p>Oficinas en Boca del Río, Veracruz.</p>
             </div>
           </div>
         </div>

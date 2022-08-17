@@ -2,7 +2,7 @@
   <footer class="footer">
     <div class="footer__container">
       <div class="footer__description">
-        <p>veracruz | xalapa | méxico</p>
+        <p>boca del rio | xalapa | méxico</p>
       </div>
       <figure class="footer__logo">
         <NuxtLink to="/">

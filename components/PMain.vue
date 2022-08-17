@@ -7,7 +7,7 @@
         SIAJ ABOGADOS es un Corporativo con amplia experticia dentro de la
         Asesoría Jurídica integral en el Derecho Mexicano. Con más de 50 años de
         trayectoria, siendo reconocida por el alto nivel de compromiso e índice
-        de éxito dentro de los conflictos de los clientes que representamos.
+        de éxito dentro de los conflictos de los clientes que representa.
       </p>
     </section>
 
@@ -16,8 +16,8 @@
       <div class="section__separator"></div>
       <p class="section__description">
         Nos especializamos en diversas ramas del derecho, contando con
-        reconocidos Abogados con pleno dominio dentro de sus respectivas áreas
-        para poder proporcionar servicios jurídicos y soluciones a las
+        reconocidos Abogados con amplia experiencia dentro de sus respectivas
+        áreas para poder proporcionar servicios jurídicos y soluciones a las
         controversias, asesorando a reconocidas empresas nacionales e
         internacionales.
       </p>
@@ -59,7 +59,7 @@
           <figure class="service__component__icon" title="made by freepik">
             <img src="~/assets/icons/services/civil-freepik.svg" alt="imagen" />
           </figure>
-          litigio civi
+          litigio civil
         </NuxtLink>
       </div>
       <div class="service__component">
