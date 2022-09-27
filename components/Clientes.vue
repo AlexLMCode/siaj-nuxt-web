@@ -17,6 +17,33 @@
       <figure class="image__container">
         <img src="~/assets/clientes/logo-parroquia.jpg" alt="logo parroquia" />
       </figure>
+      <figure class="image__container">
+        <img src="~/assets/clientes/crece.jpeg" alt="logo parroquia" />
+      </figure>
+      <figure class="image__container">
+        <img src="~/assets/clientes/goldpets.jpeg" alt="logo goldpets" />
+      </figure>
+      <figure class="image__container">
+        <img
+          src="~/assets/clientes/delangel.jpeg"
+          alt="logo del angel funeraria"
+        />
+      </figure>
+      <figure class="image__container">
+        <img src="~/assets/clientes/delipan.jpeg" alt="logo delipan" />
+      </figure>
+      <figure class="image__container">
+        <img
+          src="~/assets/clientes/cuauhtemoc.jpeg"
+          alt="logo universidad cuauhtemoc"
+        />
+      </figure>
+      <figure class="image__container">
+        <img src="~/assets/clientes/moscati.jpeg" alt="logo moscati medico" />
+      </figure>
+      <figure class="image__container">
+        <img src="~/assets/clientes/cadinda.jpeg" alt="logo cadinsa" />
+      </figure>
     </div>
   </section>
 </template>
@@ -41,6 +68,10 @@ export default {};
 
 .image__container {
   margin-bottom: 5rem;
+}
+
+.image__container img {
+  max-height: 10rem;
 }
 
 @media screen and (min-width: 900px) {

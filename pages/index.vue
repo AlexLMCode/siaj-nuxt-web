@@ -3,7 +3,6 @@
     <p-hero />
     <p-main class="container" />
     <slider />
-    <p-circles class="container" />
     <clientes />
     <p-ubicacion class="container" />
     <p-contacto class="container" />
@@ -13,7 +12,6 @@
 <script>
 import PHero from '@/components/PHero';
 import PMain from '@/components/PMain';
-import PCircles from '@/components/PCircles';
 import PUbicacion from '@/components/PUbicacion';
 import PContacto from '@/components/PContacto';
 import Slider from '@/components/Slider';
@@ -25,7 +23,6 @@ export default {
   components: {
     PHero,
     PMain,
-    PCircles,
     PUbicacion,
     PContacto,
     Slider,
