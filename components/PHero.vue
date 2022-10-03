@@ -22,9 +22,9 @@
           <li>
             <a href="#firma">la firma</a>
           </li>
-          <li>
+          <!--<li>
             <a href="#clientes">clientes</a>
-          </li>
+          </li>-->
           <li>
             <a href="#servicios">servicios</a>
           </li>
