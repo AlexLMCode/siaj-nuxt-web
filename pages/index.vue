@@ -3,7 +3,7 @@
     <p-hero />
     <p-main class="container" />
     <slider />
-    <clientes />
+    <!-- <clientes /> -->
     <p-ubicacion class="container" />
     <p-contacto class="container" />
   </div>
@@ -15,7 +15,7 @@ import PMain from '@/components/PMain';
 import PUbicacion from '@/components/PUbicacion';
 import PContacto from '@/components/PContacto';
 import Slider from '@/components/Slider';
-import Clientes from '@/components/Clientes';
+// import Clientes from '@/components/Clientes';
 
 // @ is an alias to /src
 export default {
@@ -26,7 +26,7 @@ export default {
     PUbicacion,
     PContacto,
     Slider,
-    Clientes,
+    // Clientes,
   },
 };
 </script>
