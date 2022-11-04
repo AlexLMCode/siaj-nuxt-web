@@ -2,7 +2,7 @@
   <div>
     <p-hero />
     <p-main class="container" />
-    <slider />
+    <!-- <slider /> -->
     <!-- <clientes /> -->
     <p-ubicacion class="container" />
     <p-contacto class="container" />
@@ -14,7 +14,7 @@ import PHero from '@/components/PHero';
 import PMain from '@/components/PMain';
 import PUbicacion from '@/components/PUbicacion';
 import PContacto from '@/components/PContacto';
-import Slider from '@/components/Slider';
+// import Slider from '@/components/Slider';
 // import Clientes from '@/components/Clientes';
 
 // @ is an alias to /src
@@ -25,7 +25,7 @@ export default {
     PMain,
     PUbicacion,
     PContacto,
-    Slider,
+    // Slider,
     // Clientes,
   },
 };
